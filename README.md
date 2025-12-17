@@ -26,7 +26,7 @@ Aspiring **AI/ML aspirant** with hands-on experience in developing **deep learni
   <img src="https://techstack-generator.vercel.app/python-icon.svg" width="60" height="60" alt="Python" />
   <img src="https://techstack-generator.vercel.app/java-icon.svg" width="60" height="60" alt="Java" />
   <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="60" height="60" alt="MySQL" />
-  <img src="https://techstack-generator.vercel.app/c-icon.svg" width="60" height="60" alt="C" />
+  <!-- <img src="https://techstack-generator.vercel.app/c-icon.svg" width="60" height="60" alt="C" /> -->
   <img src="https://techstack-generator.vercel.app/github-icon.svg" width="60" height="60" alt="GitHub" />
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" width="60" height="60" alt="VSCode" />
   
