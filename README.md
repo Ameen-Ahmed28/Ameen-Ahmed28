@@ -3,7 +3,7 @@
   <h1 align="center">Hi there, I'm Ameen Ahmed H 👋</h1>
   
   <a href="https://github.com/Ameen-Ahmed28" align="center">
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=2196F3&center=false&vCenter=true&width=435&lines=AI%2FML+Enthusiast;Deep+Learning+Practitioner;Data+Science+Aspirant;Tech+Explorer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=2196F3&center=false&vCenter=true&width=435&lines=AI%2FML+Enthusiast;Deep+Learning+Practitioner;Data+Science+Aspirant;Tech+Explorer" alt="Typing SVG" align="center">
   </a>
 </div>
 
