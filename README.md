@@ -1,13 +1,13 @@
 
-<div align="center">
-  <h1 align="center">Hi there, I'm Ameen Ahmed H 👋</h1>
+<div align="left">
+  <h1>Hi there, I'm Ameen Ahmed H 👋</h1>
   
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=AI%2FML+Enthusiast;Deep+Learning+Practitioner;Data+Science+Aspirant;Tech+Explorer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=1000&color=2196F3&center=false&vCenter=true&width=435&lines=AI%2FML+Enthusiast;Deep+Learning+Practitioner;Data+Science+Aspirant;Tech+Explorer" alt="Typing SVG" />
   </a>
 </div>
 
-<p align="center">
+<p align="left">
   <a href="https://linkedin.com/in/ameen-ahmed-113994258">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
@@ -30,30 +30,24 @@ Aspiring **AI/ML aspirant** with hands-on experience in developing **deep learni
 
 ### 🛠️ Tech Stack & Skills
 
-<div align="center">
-  <p>Languages & Database</p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,java,c,mysql&theme=dark" />
-  </a>
-  <br><br>
+<p align="left">
+  <!-- Animated icons -->
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" width="65" height="65" alt="Python" />
+  <img src="https://techstack-generator.vercel.app/java-icon.svg" width="65" height="65" alt="Java" />
+  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="65" height="65" alt="MySQL" />
+  <img src="https://techstack-generator.vercel.app/c-icon.svg" width="65" height="65" alt="C" />
+  <img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" alt="GitHub" />
   
-  <p>AI, ML & Data Science</p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,pandas,numpy&theme=dark" />
-  </a>
-  <br><br>
-
-  <p>Tools & Frameworks</p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
-  </a>
-  <!-- Note: Streamlit/LangChain don't have direct skillicons, keeping text badges for those or using generic if preferred. 
-       Adding specific badges for missing icons below for completeness -->
+  <!-- skillicons.dev -->
   <br>
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" />
-  <img src="https://img.shields.io/badge/Generative_AI-000000?style=for-the-badge&logo=openai&logoColor=white" />
-</div>
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,pandas,numpy,git,vscode&theme=dark" height="55" />
+  <br>
+  
+  <!-- Additional badges for specific AI tools -->
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" height="30" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" height="30" />
+  <img src="https://img.shields.io/badge/Generative_AI-000000?style=for-the-badge&logo=openai&logoColor=white" height="30" />
+</p>
 
 ---
 
@@ -89,18 +83,28 @@ Aspiring **AI/ML aspirant** with hands-on experience in developing **deep learni
 
 ### 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ameen-Ahmed28&show_icons=true&theme=radical&hide_border=true" height="160" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ameen-Ahmed28&layout=compact&theme=radical&hide_border=true" height="160" alt="languages graph"  />
-</div>
-<br />
-<div align="center">
-  <!-- Switched to streak-stats.demolab.com for better reliability -->
-  <img src="https://streak-stats.demolab.com?user=Ameen-Ahmed28&theme=radical&hide_border=true" alt="streak graph" />
+<div align="left">
+
+<!-- Main Stats Card -->
+[![Ameen's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=Ameen-Ahmed28&show_icons=true&theme=radical)](https://github.com/Ameen-Ahmed28)
+
+<!-- Top Langs -->
+[![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Ameen-Ahmed28&layout=compact&theme=radical)](https://github.com/Ameen-Ahmed28)
+
+<!-- Streak Stats - Using herokuapp as default, if issues persist, allow user to switch -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ameen-Ahmed28&theme=radical" alt="streak graph" />
+
 </div>
 
 ---
-<div align="center">
-  <br>
-  <i>Let's connect and build something amazing!</i>
+
+### 🌐 Connect With Me
+
+<div align="left">
+  <a href="https://linkedin.com/in/ameen-ahmed-113994258">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="50" />
+  </a>
+  <a href="mailto:ameen280305@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="50" />
+  </a>
 </div>
