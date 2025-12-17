@@ -31,22 +31,25 @@ Aspiring **AI/ML aspirant** with hands-on experience in developing **deep learni
 ### 🛠️ Tech Stack & Skills
 
 <div align="center">
-  <!-- Languages -->
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <br />
+  <p>Languages & Database</p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,java,c,mysql&theme=dark" />
+  </a>
+  <br><br>
   
-  <!-- AI/ML -->
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <br />
+  <p>AI, ML & Data Science</p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,pandas,numpy&theme=dark" />
+  </a>
+  <br><br>
 
-  <!-- Tools/Web -->
+  <p>Tools & Frameworks</p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
+  </a>
+  <!-- Note: Streamlit/LangChain don't have direct skillicons, keeping text badges for those or using generic if preferred. 
+       Adding specific badges for missing icons below for completeness -->
+  <br>
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" />
   <img src="https://img.shields.io/badge/Generative_AI-000000?style=for-the-badge&logo=openai&logoColor=white" />
@@ -58,10 +61,10 @@ Aspiring **AI/ML aspirant** with hands-on experience in developing **deep learni
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **DocLink Advisor using LLM** | AI tool that processes PDFs or URLs, stores content in a FAISS vector DB, and answers user queries via LangChain. | `LLM` `NLP` `Streamlit` `FAISS` |
-| **LLM RAG Financial Chatbot** | Stock analysis chatbot integrating LLM-based financial advisory with real-time data. | `Python` `Streamlit` `Plotly` `TextBlob` `Groq LLM` |
+| **DocLink Advisor** | AI tool that processes PDFs or URLs, stores content in a FAISS vector DB, and answers user queries via LangChain. | `LLM` `NLP` `Streamlit` `FAISS` |
+| **LLM RAG Financial Chatbot** | Stock analysis chatbot integrating LLM-based financial advisory with real-time data. | `Python` `Streamlit` `Plotly` `Groq` |
 | **Multi-Lingual Financial Chatbot** | Analysis chatbot with multilingual capabilities using RAG pipelines. | `RAG` `LLM` `Streamlit` |
-| **AI Scheduling Agent** | Automates patient booking, cancellations, and clinic operations using an AI agent. | `LangGraph` `Groq LLM` `Pandas` `SMTP` |
+| **AI Scheduling Agent** | Automates patient booking, cancellations, and clinic operations using an AI agent. | `LangGraph` `Groq` `Pandas` `SMTP` |
 
 ---
 
@@ -92,7 +95,8 @@ Aspiring **AI/ML aspirant** with hands-on experience in developing **deep learni
 </div>
 <br />
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ameen-Ahmed28&theme=radical&hide_border=true" alt="streak graph" />
+  <!-- Switched to streak-stats.demolab.com for better reliability -->
+  <img src="https://streak-stats.demolab.com?user=Ameen-Ahmed28&theme=radical&hide_border=true" alt="streak graph" />
 </div>
 
 ---
