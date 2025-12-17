@@ -7,15 +7,6 @@
   </a>
 </div>
 
-<p align="left">
-  <a href="https://linkedin.com/in/ameen-ahmed-113994258">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:ameen280305@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
 ---
 
 ### 👨‍💻 About Me
@@ -31,19 +22,19 @@ Aspiring **AI/ML aspirant** with hands-on experience in developing **deep learni
 ### 🛠️ Tech Stack & Skills
 
 <p align="left">
-  <!-- Animated icons -->
-  <img src="https://techstack-generator.vercel.app/python-icon.svg" width="65" height="65" alt="Python" />
-  <img src="https://techstack-generator.vercel.app/java-icon.svg" width="65" height="65" alt="Java" />
-  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="65" height="65" alt="MySQL" />
-  <img src="https://techstack-generator.vercel.app/c-icon.svg" width="65" height="65" alt="C" />
-  <img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" alt="GitHub" />
+  <!-- Animated Icons for Supported Languages -->
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" width="60" height="60" alt="Python" />
+  <img src="https://techstack-generator.vercel.app/java-icon.svg" width="60" height="60" alt="Java" />
+  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="60" height="60" alt="MySQL" />
+  <img src="https://techstack-generator.vercel.app/c-icon.svg" width="60" height="60" alt="C" />
+  <img src="https://techstack-generator.vercel.app/github-icon.svg" width="60" height="60" alt="GitHub" />
+  <img src="https://techstack-generator.vercel.app/vscode-icon.svg" width="60" height="60" alt="VSCode" />
   
-  <!-- skillicons.dev -->
   <br>
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,pandas,numpy,git,vscode&theme=dark" height="55" />
+  <!-- SkillIcons for AI/ML Tools (Animated versions not available but these are sleek) -->
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,pandas,numpy&theme=dark" height="55" />
   <br>
-  
-  <!-- Additional badges for specific AI tools -->
+  <!-- Badges for Specialized Frameworks -->
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" height="30" />
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" height="30" />
   <img src="https://img.shields.io/badge/Generative_AI-000000?style=for-the-badge&logo=openai&logoColor=white" height="30" />
@@ -91,8 +82,8 @@ Aspiring **AI/ML aspirant** with hands-on experience in developing **deep learni
 <!-- Top Langs -->
 [![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Ameen-Ahmed28&layout=compact&theme=radical)](https://github.com/Ameen-Ahmed28)
 
-<!-- Streak Stats - Using herokuapp as default, if issues persist, allow user to switch -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ameen-Ahmed28&theme=radical" alt="streak graph" />
+<!-- Streak Stats - Tried reliable mirror -->
+<img src="https://streak-stats.demolab.com?user=Ameen-Ahmed28&theme=radical" alt="streak graph" />
 
 </div>
 
@@ -101,6 +92,7 @@ Aspiring **AI/ML aspirant** with hands-on experience in developing **deep learni
 ### 🌐 Connect With Me
 
 <div align="left">
+  <p><i>Let's connect and build something amazing!</i></p>
   <a href="https://linkedin.com/in/ameen-ahmed-113994258">
     <img src="https://skillicons.dev/icons?i=linkedin" height="50" />
   </a>
