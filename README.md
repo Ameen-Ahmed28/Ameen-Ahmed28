@@ -1,9 +1,9 @@
 
-<div align="left">
-  <h1>Hi there, I'm Ameen Ahmed H 👋</h1>
+<div>
+  <h1 align="center">Hi there, I'm Ameen Ahmed H 👋</h1>
   
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=1000&color=2196F3&center=false&vCenter=true&width=435&lines=AI%2FML+Enthusiast;Deep+Learning+Practitioner;Data+Science+Aspirant;Tech+Explorer" alt="Typing SVG" />
+  <a href="https://github.com/Ameen-Ahmed28" align="center">
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=2196F3&center=false&vCenter=true&width=435&lines=AI%2FML+Enthusiast;Deep+Learning+Practitioner;Data+Science+Aspirant;Tech+Explorer" alt="Typing SVG" align="center">
   </a>
 </div>
 
@@ -11,47 +11,59 @@
 
 ### 👨‍💻 About Me
 
-Aspiring **AI/ML aspirant** with hands-on experience in developing **deep learning models**, **predictive analytics solutions**, and **intelligent agents**. Eager to apply skills in **data science**, **machine learning**, and **NLP** to solve real-world problems and contribute to innovative AI-driven projects while continuously enhancing technical expertise.
+Aspiring **AI/ML engineer** with hands-on experience in developing **deep learning models**, **predictive analytics solutions**, and **intelligent agents**. Eager to apply skills in **data science**, **machine learning**, and **NLP** to solve real-world problems and contribute to innovative AI-driven projects while continuously enhancing technical expertise.
 
 - 🎓 **B.Tech Artificial Intelligence and Machine Learning** at Bannari Amman Institute of Technology (CGPA: 8.27/10)
 - 🔭 I’m currently working on **Generative AI & RAG Pipelines**
 - 🌱 I’m currently learning **Advanced NLP & MLOps**
+- 💬 Ask me about **Deep Learning, FastAPI, Data Science**
+- ⚡ Fun fact: I love turning data into stories and models into solutions
 
 ---
 
 ### 🛠️ Tech Stack & Skills
 
-<p align="left">
-  <!-- Animated Icons for Supported Languages -->
+<p align="center">
+  <!-- Animated Icons for Languages -->
   <img src="https://techstack-generator.vercel.app/python-icon.svg" width="60" height="60" alt="Python" />
   <img src="https://techstack-generator.vercel.app/java-icon.svg" width="60" height="60" alt="Java" />
   <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="60" height="60" alt="MySQL" />
   <img src="https://techstack-generator.vercel.app/c-icon.svg" width="60" height="60" alt="C" />
   <img src="https://techstack-generator.vercel.app/github-icon.svg" width="60" height="60" alt="GitHub" />
-  <img src="https://techstack-generator.vercel.app/vscode-icon.svg" width="60" height="60" alt="VSCode" />
+  <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="60" height="60" alt="Docker" />
+  <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="60" height="60" alt="REST API" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" width="60" height="60" alt="VSCode" />
+  <img src="https://skillicons.dev/icons?i=powershell&theme=dark" width="60" height="60" alt="PowerShell" />
+  <img src="https://skillicons.dev/icons?i=windows&theme=dark" width="60" height="60" alt="Windows Terminal" />
+  <img src="https://skillicons.dev/icons?i=azure&theme=dark" width="60" height="60" alt="Azure" />
   
   <br>
-  <!-- SkillIcons for AI/ML Tools (Animated versions not available but these are sleek) -->
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,pandas,numpy&theme=dark" height="55" />
+  <!-- SkillIcons for AI/ML Tools -->
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,pandas,numpy,keras,opencv,git,postman&theme=dark" height="55" />
   <br>
-  <!-- Badges for Specialized Frameworks -->
+  <!-- Databases -->
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" height="30" />
+  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" height="30" />
+  <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" height="30" />
+  <img src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white" height="30" />
+  <br>
+  <!-- Frameworks & Libraries -->
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" height="30" />
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" height="30" />
+  <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white" height="30" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" height="30" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" height="30" />
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white" height="30" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" height="30" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" height="30" />
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" height="30" />
+  <img src="https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=plotly&logoColor=black" height="30" />
+  <br>
+  <!-- GenAI & More -->
   <img src="https://img.shields.io/badge/Generative_AI-000000?style=for-the-badge&logo=openai&logoColor=white" height="30" />
+  <img src="https://img.shields.io/badge/Puppeteer-40B5A4?style=for-the-badge&logo=puppeteer&logoColor=white" height="30" />
 </p>
 
----
-
-### 🚀 Projects
-
-| Project | Description | Tech Stack |
-| :--- | :--- | :--- |
-| **DocLink Advisor** | AI tool that processes PDFs or URLs, stores content in a FAISS vector DB, and answers user queries via LangChain. | `LLM` `NLP` `Streamlit` `FAISS` |
-| **LLM RAG Financial Chatbot** | Stock analysis chatbot integrating LLM-based financial advisory with real-time data. | `Python` `Streamlit` `Plotly` `Groq` |
-| **Multi-Lingual Financial Chatbot** | Analysis chatbot with multilingual capabilities using RAG pipelines. | `RAG` `LLM` `Streamlit` |
-| **AI Scheduling Agent** | Automates patient booking, cancellations, and clinic operations using an AI agent. | `LangGraph` `Groq` `Pandas` `SMTP` |
-
----
 
 ### 💼 Experience
 
@@ -76,16 +88,18 @@ Aspiring **AI/ML aspirant** with hands-on experience in developing **deep learni
 
 <div align="left">
 
-<!-- Main Stats Card -->
-[![Ameen's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=Ameen-Ahmed28&show_icons=true&theme=radical)](https://github.com/Ameen-Ahmed28)
+<!-- Main Stats Cards -->
+![](https://github-readme-stats.shion.dev/api?username=Ameen-Ahmed28&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=Ameen-Ahmed28&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Ameen-Ahmed28&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<!-- Top Langs -->
-[![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Ameen-Ahmed28&layout=compact&theme=radical)](https://github.com/Ameen-Ahmed28)
-
-<!-- Streak Stats - Tried reliable mirror -->
-<img src="https://streak-stats.demolab.com?user=Ameen-Ahmed28&theme=radical" alt="streak graph" />
 
 </div>
+
+---
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ---
 
@@ -100,3 +114,6 @@ Aspiring **AI/ML aspirant** with hands-on experience in developing **deep learni
     <img src="https://skillicons.dev/icons?i=gmail" height="50" />
   </a>
 </div>
+
+---
+[![](https://visitcount.itsvg.in/api?id=Ameen-Ahmed28&icon=3&color=8)](https://visitcount.itsvg.in)
